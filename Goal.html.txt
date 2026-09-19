@@ -1,0 +1,333 @@
+📄 CAPSTONE PROJECT — MY RESUME
+
+⸻
+
+1. Project Setup
+
+Create a file named:
+
+index.html
+
+Start the file with the HTML boilerplate you have learned.
+
+Set the page title to:
+
+My Resume
+
+Everything below belongs inside the webpage body.
+
+⸻
+
+MY RESUME
+
+Somto
+
+Aspiring Web Developer | HTML Developer | Healthcare & Digital Technology
+
+⸻
+
+Professional Summary
+
+I am an aspiring web developer with a growing foundation in HTML and practical experience creating webpages and small web projects. I enjoy turning ideas into structured, functional webpages and learning how different parts of a website work together.
+
+Through hands-on projects, I have developed experience with HTML structure, lists, links, images, file paths, multi-page websites, and basic website deployment using GitHub Pages.
+
+I am currently expanding my web development knowledge and looking for opportunities where I can continue learning, contribute to real projects, and grow as a developer.
+
+Apply here: Use appropriate heading and paragraph elements to structure this section.
+
+⸻
+
+Education
+
+Enugu State University of Science and Technology (ESUT)
+Undergraduate Student
+Enugu, Nigeria
+
+Currently pursuing my university education while developing practical skills in web development.
+
+Apply here: Use headings and paragraphs. You may use a list if you want to organize the education details.
+
+⸻
+
+Web Development Experience
+
+Independent Web Development Projects
+
+Web Developer — Personal Projects
+2026 – Present
+
+* Build webpages from scratch using HTML.
+* Create structured webpages using headings, paragraphs, lists, links, images, and other HTML elements.
+* Develop multi-page websites and connect pages using anchor links.
+* Organize website files and use relative file paths to display local images and connect webpages.
+* Build project pages to document practical learning and development progress.
+* Upload projects to GitHub for versioned portfolio development.
+* Deploy websites using GitHub Pages.
+* Continuously improve projects by applying newly learned web development concepts.
+
+Apply here: Use appropriate headings, paragraphs, and a list for the responsibilities.
+
+⸻
+
+Technical Skills
+
+Web Development
+
+* HTML5
+* HTML document structure and boilerplate
+* Semantic webpage organization
+* Headings and paragraphs
+* Ordered and unordered lists
+* Nested lists and indentation
+* Anchor elements and hyperlinks
+* HTML attributes
+* Images and alternative text
+* Relative file paths
+* Multi-page website structure
+* Basic website deployment
+* GitHub
+* GitHub Pages
+
+Currently Learning
+
+* CSS
+* JavaScript
+* Responsive web design
+* Interactive web development
+
+Apply here: Use headings and unordered lists to organize the skills.
+
+⸻
+
+Projects
+
+These are the actual projects you have created and will be part of your portfolio.
+
+Movie Ranking
+
+A personal movie-ranking webpage created to practice HTML structure, headings, paragraphs, and lists.
+
+Project preview:
+Take a screenshot of your completed Movie Ranking webpage and save it inside your project’s images folder.
+
+Display the screenshot here.
+
+Make the image 200px high.
+
+Make the image clickable, so that clicking the screenshot opens the actual Movie Ranking webpage.
+
+Add:
+
+View Project
+
+Make View Project a link to the actual Movie Ranking webpage.
+
+⸻
+
+Birthday Invite
+
+A birthday invitation webpage created to practice webpage structure, text, links, and HTML organization.
+
+Project preview:
+Take a screenshot of your completed Birthday Invite webpage and save it inside your images folder.
+
+Display the screenshot here.
+
+Make the image 200px high.
+
+Make the image clickable, so that clicking it opens the actual Birthday Invite webpage.
+
+Add:
+
+View Project
+
+Make View Project a link to the actual Birthday Invite webpage.
+
+⸻
+
+A Day at the Garden
+
+A detailed webpage describing a visit to a botanical garden. This project combines headings, paragraphs, lists, nested content, images, links, and file paths.
+
+Project preview:
+Take a screenshot of your completed A Day at the Garden webpage and save it inside your images folder.
+
+Display the screenshot here.
+
+Make the image 200px high.
+
+Make the image clickable, so that clicking it opens the actual A Day at the Garden webpage.
+
+Add:
+
+View Project
+
+Make View Project a link to the actual A Day at the Garden webpage.
+
+⸻
+
+A Weekend at the Beach
+
+A multi-section webpage describing a day at the beach. The project combines several HTML concepts into a more detailed webpage.
+
+Project preview:
+First, redo your A Weekend at the Beach webpage.
+
+Save the completed webpage in your project.
+
+Take a screenshot of the completed webpage and save it inside your images folder.
+
+Display the screenshot here.
+
+Make the image 200px high.
+
+Make the image clickable, so that clicking it opens the actual A Weekend at the Beach webpage.
+
+Add:
+
+View Project
+
+Make View Project a link to the actual A Weekend at the Beach webpage.
+
+Apply here: This entire Projects section is where you practice images, image attributes, file paths, anchor elements, links, and organizing multiple projects.
+
+⸻
+
+Profile Photo
+
+Add a profile photo of yourself to the resume.
+
+The image should be saved inside your project’s images folder.
+
+Give the image appropriate alternative text.
+
+Apply here: Use the image element, a computer file path, and the appropriate image attribute.
+
+⸻
+
+Achievements
+
+* Built multiple webpages independently using HTML.
+* Created and organized personal web development projects.
+* Built a personal project portfolio.
+* Learned to work with local images and relative file paths.
+* Created multi-page website structures.
+* Uploaded projects to GitHub.
+* Published websites using GitHub Pages.
+* Completed an HTML resume portfolio project.
+
+Apply here: Use an unordered list.
+
+⸻
+
+What I’m Looking For
+
+I am interested in opportunities that allow me to gain practical experience in web development, contribute to real projects, learn from experienced professionals, and continue developing my technical skills.
+
+I am particularly interested in entry-level opportunities, internships, freelance projects, and collaborative projects where I can build experience while delivering useful work.
+
+Apply here: Use paragraph elements.
+
+⸻
+
+Hobbies
+
+Create a separate webpage for your hobbies.
+
+The page should contain:
+
+My Hobbies & Interests
+
+* Web development
+* Cooking and food creativity
+* Learning new digital skills
+* Building personal projects
+* Exploring technology and creative ideas
+
+Add a link that allows the visitor to return to the My Resume page.
+
+Apply here: This is where you practice the multi-page website requirement and use an anchor element to connect your pages.
+
+⸻
+
+Contact Me
+
+Create a separate webpage for your contact information.
+
+Contact Me
+
+I am open to opportunities, collaborations, and conversations about web development.
+
+Email: your professional email
+Phone: your phone number
+Location: Enugu, Nigeria
+
+Add a link that allows the visitor to return to the My Resume page.
+
+Apply here: This is another part of your multi-page website. Use anchor elements to connect the Contact page and Resume page.
+
+⸻
+
+Footer
+
+At the bottom of your resume webpage, include:
+
+Somto
+
+© 2026 Somto. All rights reserved.
+
+This website is part of my personal web development portfolio and is continuously being updated as I develop new skills and projects.
+
+Apply here: Add a footer element at the bottom of the page. Use your name and copyright information inside it.
+
+⸻
+
+🌐 Final Website & GitHub Requirements
+
+Once you have finished writing your HTML:
+
+Test your website
+
+Save your files and open the website in a browser.
+
+Check that:
+
+* The resume displays correctly.
+* Your profile photo appears.
+* All project screenshots appear.
+* The project images are the correct size.
+* Clicking a project image opens the correct project.
+* The View Project links work.
+* The Hobbies page opens.
+* The Contact page opens.
+* The links back to the Resume page work.
+* There are no broken images or links.
+
+Add the project to GitHub
+
+Upload your website project to your GitHub repository.
+
+Make sure the necessary HTML files and image files are uploaded.
+
+Publish with GitHub Pages
+
+Publish the website using GitHub Pages.
+
+After publishing, open the GitHub Pages URL and test the live website, not just the local files.
+
+Share the website
+
+Copy your published GitHub Pages link and share it in the course Q&A.
+
+Review other students’ projects
+
+Visit other students’ published projects.
+
+Comment on their projects and make useful suggestions or observations about their websites.
+
+⸻
+
+🏁 Final Portfolio Structure
+
+By the end, your project should contain something similar to
